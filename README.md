@@ -40,3 +40,6 @@ Ensured Security and Performance: Applied best practices for security and perfor
 Deploy everything to github: Create a github repo and host all your project files and code there.
 
 
+![Screenshot 2025-04-09 at 22 47 16](https://github.com/user-attachments/assets/fbb128ba-6892-4bfd-a8e6-5190e0b0d879)
+<img width="1512" alt="Screenshot 2025-04-09 at 22 52 00" src="https://github.com/user-attachments/assets/642b534b-555d-43db-8c27-2a8e6f1105db" />
+<img width="1512" alt="Screenshot 2025-04-09 at 22 51 55" src="https://github.com/user-attachments/assets/225240bc-1036-409f-b317-ed1f8eacea6b" />
